@@ -1,0 +1,31 @@
+_repo: Plants-and-their-children_71942
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, Alice Josephine
+    gutenberg_agent_id: '42045'
+    url: http://www.gutenberg.org/2009/agents/42045
+creator:
+  author:
+    agent_name: Parsons, Frances Theodora (Mrs. William Starr Dana)
+    gutenberg_agent_id: '56468'
+    url: http://www.gutenberg.org/2009/agents/56468
+description: ''
+gutenberg_issued: '2023-10-23'
+identifiers:
+  gutenberg: '71942'
+language: en
+pgterms:marc904: https://archive.org/details/plantstheirchildpars/page/n5/mode/2up
+pgterms:marc905: 20230221055044parsons
+pgterms:marc906: '1896'
+pgterms:marc907: Us
+production_note: Bob Taylor, the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bAmerican Book Company, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Plants and their children
+url: http://www.gutenberg.org/ebooks/71942
